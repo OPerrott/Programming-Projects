@@ -21,11 +21,11 @@ def sub():
     total = num1 - num2
     print(total)
 
-if operator == "*" or "multiply":
+if operator == "*":
     multiplication()
-elif operator == "/" or "divide":
+elif operator == "/":
     divide()
-elif operator == "+" or "add":
+elif operator == "+":
     add()
-elif operator == "-" or "sub":
+elif operator == "-":
     sub()
